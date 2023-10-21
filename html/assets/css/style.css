@@ -1,0 +1,115 @@
+* {
+ margin: 0;
+ padding: 0;
+}
+
+body {
+ margin-top: -50px;
+ margin-bottom: -50px;
+ display: flex;
+ align-items: center;
+ font-size: 700;
+ justify-content: center;
+ height: 30vh;
+}
+
+
+.btn {
+  font-family: arial;
+  letter-spacing: 2px;
+  font-size: 22px;
+  text-transform: uppercase;
+  background: #CC5B5C;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 20px 24px;
+  box-shadow: 0 0 60px -5px #CC5B5C;
+  transition: all .3s;
+  text-decoration: none;
+  font-weight: 700;
+  margin: 2px 15px;
+ }
+
+.btn:hover {
+  box-shadow: 0 0px 65px -5px #CC5B5C;
+}
+
+.btn2 {  
+  font-family: arial;
+  letter-spacing: 2px;
+  font-size: 22px;
+  text-transform: uppercase;
+  background: #CC5B5C;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 20px 24px;
+  box-shadow: 0 0 60px -5px #CC5B5C;
+  transition: all .3s;
+  text-decoration: none;
+  font-weight: 700;
+  margin: 2px 15px;
+ }
+
+.btn2:hover {  
+  box-shadow: 0 0px 65px -5px #CC5B5C;
+}
+
+.btn3 {   
+  font-family: arial;
+  letter-spacing: 2px;
+  font-size: 22px;
+  text-transform: uppercase;
+  background: #CC5B5C;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 20px 24px;
+  box-shadow: 0 0 60px -5px #CC5B5C;
+  transition: all .3s;
+  text-decoration: none;
+  font-weight: 700;
+  margin: 2px 15px;
+ }
+
+.btn3:hover {   
+  box-shadow: 0 0px 65px -5px #CC5B5C;
+}
+
+.btn4 {   
+  font-family: arial;
+  letter-spacing: 2px;
+  font-size: 22px;
+  text-transform: uppercase;
+  background: #CC5B5C;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 20px 24px;
+  box-shadow: 0 0 60px -5px #CC5B5C;
+  transition: all .3s;
+  text-decoration: none;
+  font-weight: 700;
+  margin: 2px 15px;
+ }
+
+.btn4:hover {   
+  box-shadow: 0 0px 65px -5px #CC5B5C;
+}
+
+.btn5 {   
+  font-family: arial;
+  letter-spacing: 2px;
+  font-size: 22px;
+  text-transform: uppercase;
+  background: #CC5B5C;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 20px 24px;
+  box-shadow: 0 0 60px -5px #CC5B5C;
+  transition: all .3s;
+  text-decoration: none;
+  font-weight: 700;
+  margin: 2px 15px;
+ }
+
+.btn5:hover {   
+  box-shadow: 0 0px 65px -5px #CC5B5C;
+}
